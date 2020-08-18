@@ -1,7 +1,7 @@
 # Projeto - lista de produtos<br>
 
 ## Objetivo
-* Projeto criado para manipulação de listas do JavaScript<br>
+* Manipulação de listas com JavaScript<br>
   
 ## Tecnologias
 
