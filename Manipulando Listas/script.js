@@ -3,9 +3,12 @@ function adicionarItem(){
 
 	var listahtml = document.getElementById("lista").innerHTML;
 
+
 	listahtml = listahtml + "<li>"+prod+"</li>";
 
+
 	document.getElementById("lista").innerHTML = listahtml;
+
 
 
 
